@@ -1,3 +1,10 @@
+# Important issues.
+https://github.com/traveller59/second.pytorch/issues/75
+
+https://github.com/traveller59/second.pytorch/issues/125
+
+https://github.com/traveller59/second.pytorch/issues/187
+
 # SECOND for KITTI/NuScenes object detection (1.6.0 Alpha)
 SECOND detector.
 
