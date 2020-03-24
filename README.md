@@ -3,6 +3,8 @@ https://blog.csdn.net/Small_Munich/article/details/99053921
 
 https://blog.csdn.net/learning_tortosie/article/details/86686007
 
+接续训练：添加参数--resume=True
+
 # Important issues
 https://github.com/traveller59/second.pytorch/issues/75
 
